@@ -28,7 +28,7 @@ body{
     justify-content: space-between; 
     padding: 20px; 
     border-radius: 25px; 
-    border: 2px solid white
+    border: 2px solid white;
                
 }
 
@@ -132,6 +132,7 @@ p{
 .kidmodeimg{
     width: 500px;
     height: 350px;
+    margin-top: 30px;
 }
 .kidscontent{
     margin-top: 60px;

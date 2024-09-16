@@ -63,6 +63,7 @@ body{
 }
 .elep{margin-top: 100px;
     margin-bottom: 100px;
+    padding-left: 8.5%;
     
     font-family:Inria Sans  ;
     color: white;
@@ -133,6 +134,7 @@ p{
     width: 500px;
     height: 350px;
     margin-top: 30px;
+    margin-bottom: 30px;
 }
 .kidscontent{
     margin-top: 60px;
@@ -173,6 +175,7 @@ p{
     margin-right: 70px;
     margin-top: 80px;
     border-radius: 25px;
+    padding-left: 8%;
 }
 .space-quotes{
     font-family: Poppins;
@@ -180,6 +183,7 @@ p{
     margin-top: 100px;
     margin-bottom: 100px;
     color: white;
+    padding-left: 8%;
 }
 .space-quotes-one{
     margin-left:250px;

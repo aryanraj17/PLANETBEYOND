@@ -115,6 +115,7 @@ body{
     font-family: Inria Sans;
     font-size: large;
     color: white;
+    margin-right: 2%;
 }
 p{
     font-family: Inria Sans;
@@ -146,6 +147,7 @@ p{
 }
 .kidpara{
     font-size: larger;
+    margin-right: 2%;
 }
 .title{
     color:aqua;

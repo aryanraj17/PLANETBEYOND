@@ -117,6 +117,11 @@ body{
     color: white;
     margin-right: 2%;
 }
+.gpromo{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    margin-left: 1px;
+}
 p{
     font-family: Inria Sans;
     color: white;
@@ -136,6 +141,7 @@ p{
     height: 350px;
     margin-top: 30px;
     margin-bottom: 30px;
+    margin-left: 1px;
 }
 .kidscontent{
     margin-top: 60px;

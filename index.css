@@ -67,9 +67,6 @@ body{
     
     font-family:Inria Sans  ;
     color: white;
-
-
-
 }
 .para1 {
     font-size: 1.25rem; 
@@ -194,7 +191,8 @@ p{
     padding-left: 8%;
 }
 .space-quotes-one{
-    margin-left:250px;
+    margin-left:165px;
+    font-size: 55px;
     
 }
 .space-quotes-two{

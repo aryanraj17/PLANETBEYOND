@@ -23,7 +23,7 @@ PLANETBEYOND is an immersive, interactive learning platform designed to make spa
 
 # 🌐 Live Demo
 - **Check out our live demo on GitHub:**
-- GitHub Repository- https://github.com/aryanraj17/PLANETBEYOND/new/main?filename=README.md
+- GitHub Repository- https://github.com/aryanraj17/PLANETBEYOND
 
 # **You can also view the prototype:**
 - Prototype Link- https://aryanraj17.github.io/PLANETBEYOND/

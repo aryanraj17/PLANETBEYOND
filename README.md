@@ -54,7 +54,7 @@ PLANETBEYOND is an immersive, interactive learning platform designed to make spa
 - **Accessible Anywhere:** PLANETBEYOND is optimized for low-bandwidth environments, ensuring students in even the remotest regions can explore space.
 
 # 🔧 Technology Stack
--**3D Models: WebGL, Three.js**
+- **3D Models: WebGL, Three.js**
 - **Machine Learning: Python (TensorFlow, Scikit-Learn)**
 - **Backend: Node.js, Express.js**
 - **Database: MongoDB (NASA Archives)**

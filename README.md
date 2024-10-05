@@ -64,7 +64,7 @@ PLANETBEYOND is an immersive, interactive learning platform designed to make spa
 - **Quiz Personalization: Adaptive ML models**
 
 # 📊 Prototype Performance Highlights
-- <100ms Response Time for 3D navigation.
+- 100ms Response Time for 3D navigation.
 _ 98% Chatbot Accuracy for real-time assistance.
 - 7-10 minutes average session length with gamified quizzes.
 - 95% Compatibility across devices.

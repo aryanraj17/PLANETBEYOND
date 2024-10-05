@@ -73,6 +73,18 @@ body{
     z-index: 10; /* Ensures this element is on top */
     
 }
+.body-logo{
+    position: absolute;
+    top: 0%;
+    left:0%;
+    
+    color: white;
+    
+    text-align:start;
+    
+    padding-top: 20px;
+    z-index: 10; /* Ensures this element is on top */
+}
     
 
 

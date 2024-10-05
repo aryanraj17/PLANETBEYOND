@@ -43,7 +43,7 @@ PLANETBEYOND is an immersive, interactive learning platform designed to make spa
 - Our platform integrates a machine learning model that tracks user performance and dynamically adjusts the difficulty of quiz questions. As users progress, the system predicts their learning curves, delivering increasingly challenging questions when users perform well, and adjusting to easier questions when necessary. This keeps engagement high while ensuring effective learning outcomes.
 
 **Lightning-fast Chatbot Assistance**
-- Get answers in <2 seconds with 98% accuracy, enhancing the learning experience.
+- Get answers in 2 seconds with 98% accuracy, enhancing the learning experience.
 
 **Immersive Space Adventures**
 - Step into breathtaking planetary phenomena like diamond rain, lava oceans, and glass windstorms.
@@ -79,8 +79,8 @@ _ 98% Chatbot Accuracy for real-time assistance.
 -Experience unique planetary conditions such as diamond rain, molten rock oceans, and glass storms. Our platform offers an unparalleled view into the wildest weather conditions in the universe!
 
 # 🏆 Achievements
-- No. 1 Ed-Tech Space Platform: Recognized for innovation in space education.
-- 98% Positive Feedback from educators and students.
+- No. 1 Ed-Tech Space Platform: Recognized for innovation in Galgotias space education.
+- 98% Positive Feedback from educators and students of the university.
 
 # 📸 Prototype Snapshots
 - **Below are some snapshots of our working prototype:**

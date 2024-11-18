@@ -57,6 +57,7 @@
     background-size: cover;
     font-family: "Roboto";
     color:#ffffff;
+    border-radius: 30px;
 }
 .img{
     background-image: url("https://th.bing.com/th/id/OIP.pWMwIFFGXoE1ZkSECuQglgAAAA?w=400&h=250&rs=1&pid=ImgDetMain");
